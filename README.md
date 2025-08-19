@@ -50,7 +50,7 @@ A modern, responsive sign-up page built with HTML5, CSS3, JavaScript, and Bootst
 
 ```bash
 # If using Git
-git clone https://github.com/athulkrishnap25/signup-form-validation.git
+git clone athulkrishnap25/signup-form-validation
 cd sign-up-page
 
 # Or simply download and extract the files
@@ -169,4 +169,5 @@ Created with ❤️ by Athul krishna P
 ---
 
 **Note**: This is a front-end only implementation. For a complete application, you'll need to integrate with a backend service to handle user registration and data storage.
+
 
